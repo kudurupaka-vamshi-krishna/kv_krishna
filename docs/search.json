@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Description of what you are working on. You can add images and links here.\n\n\n\nDescription of your second project."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Description of what you are working on. You can add images and links here.\n\n\n\nDescription of your second project."
+  },
+  {
+    "objectID": "research.html#past-work",
+    "href": "research.html#past-work",
+    "title": "Research & Projects",
+    "section": "Past Work",
+    "text": "Past Work\n\nWork A: Summary of work.\nWork B: Summary of work."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vamshi Krishna",
+    "section": "",
+    "text": "Hello! I am Vamshi Krishna. I am a researcher/developer specializing in [Your Field, e.g., Data Science, Engineering, etc.].\nWelcome to my personal website. Here you can find information about my projects, publications, and research interests."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Vamshi Krishna",
+    "section": "",
+    "text": "Hello! I am Vamshi Krishna. I am a researcher/developer specializing in [Your Field, e.g., Data Science, Engineering, etc.].\nWelcome to my personal website. Here you can find information about my projects, publications, and research interests."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Vamshi Krishna",
+    "section": "Education",
+    "text": "Education\nUniversity Name | City, Country\nDegree in Subject | Year - Year\nUniversity Name | City, Country\nDegree in Subject | Year - Year"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Vamshi Krishna",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nTopic 1\nTopic 2\nTopic 3"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out to me for collaborations or inquiries.\n\nGet in Touch\n\nEmail: your.email@example.com\nLocation: City, Country\n\n\n\nOffice Address\nDepartment of X,\nUniversity/Company Name,\nAddress Line 1,\nCity, Zip Code.\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Krishna, V., Author, B. (2024). “Title of the paper”. Journal Name. [DOI Link]\nKrishna, V., Author, C. (2023). “Title of the paper”. Journal Name. [DOI Link]"
+  },
+  {
+    "objectID": "publications.html#journal-papers",
+    "href": "publications.html#journal-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Krishna, V., Author, B. (2024). “Title of the paper”. Journal Name. [DOI Link]\nKrishna, V., Author, C. (2023). “Title of the paper”. Journal Name. [DOI Link]"
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nKrishna, V. (2024). “Conference Paper Title”. Conference Name."
+  }
+]

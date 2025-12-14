@@ -1,0 +1,33 @@
+---
+title: "Vamshi Krishna"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/YOUR_PROFILE
+    - icon: github
+      text: Github
+      href: https://github.com/YOUR_USERNAME
+---
+
+## About Me
+
+Hello! I am **Vamshi Krishna**. I am a researcher/developer specializing in [Your Field, e.g., Data Science, Engineering, etc.]. 
+
+Welcome to my personal website. Here you can find information about my projects, publications, and research interests.
+
+## Education
+
+**University Name** | City, Country  
+Degree in Subject | Year - Year
+
+**University Name** | City, Country  
+Degree in Subject | Year - Year
+
+## Research Interests
+
+* Topic 1
+* Topic 2
+* Topic 3
