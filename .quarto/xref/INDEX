@@ -22,5 +22,17 @@
   },
   "teaching_outreach/index.qmd": {
     "index.html": "b7202db4"
+  },
+  "404.qmd": {
+    "404.html": "a96dc455"
+  },
+  "contact.qmd": {
+    "contact.html": "3bd7a06d"
+  },
+  "publications.qmd": {
+    "publications.html": "6ab09493"
+  },
+  "research.qmd": {
+    "research.html": "f601d51e"
   }
 }

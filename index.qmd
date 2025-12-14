@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: "Kudurupaka Vamshi Krishna"
 subtitle: "PhD Scholar in Transportation Engineering"
 format:
@@ -9,13 +8,11 @@ format:
 
 ## About
 
-Write 1–2 short paragraphs here summarizing who you are (current PhD topic, institute, and main research interests).
+A passionate road safety researcher specializing in human factors in road safety, and intelligent transportation systems. Experienced in translating research outputs into innovative safety solutions for diverse road users.
 
 ## Research Interests
 
-- Item 1  
-- Item 2  
-- Item 3  
+Human factors in road safety and decision-making, assistive technology, psycho-physiological behaviour, Intelligent Transportation Systems (ITS), Autonomous Vehicles (AV) mobility, e-HMI and IoT
 
 ## News
 
@@ -27,37 +24,3 @@ Write 1–2 short paragraphs here summarizing who you are (current PhD topic, in
 - [Research](research/index.qmd)  
 - [Publications](publications/index.qmd)  
 - [CV](cv/index.qmd)  
-=======
-title: "Vamshi Krishna"
-about:
-  template: jolla
-  image: profile.jpg
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/YOUR_PROFILE
-    - icon: github
-      text: Github
-      href: https://github.com/YOUR_USERNAME
----
-
-## About Me
-
-Hello! I am **Vamshi Krishna**. I am a researcher/developer specializing in [Your Field, e.g., Data Science, Engineering, etc.]. 
-
-Welcome to my personal website. Here you can find information about my projects, publications, and research interests.
-
-## Education
-
-**University Name** | City, Country  
-Degree in Subject | Year - Year
-
-**University Name** | City, Country  
-Degree in Subject | Year - Year
-
-## Research Interests
-
-* Topic 1
-* Topic 2
-* Topic 3
->>>>>>> e02b7fe0a64fabaa9aa53d1e2d1c2784e1aa16b1

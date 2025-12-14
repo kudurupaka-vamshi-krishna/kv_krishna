@@ -7,11 +7,109 @@
     "text": "teaching_outreach"
   },
   {
-    "objectID": "styles/styles.html",
-    "href": "styles/styles.html",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Description of what you are working on. You can add images and links here.\n\n\n\nDescription of your second project."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Description of what you are working on. You can add images and links here.\n\n\n\nDescription of your second project."
+  },
+  {
+    "objectID": "research.html#past-work",
+    "href": "research.html#past-work",
+    "title": "Research & Projects",
+    "section": "Past Work",
+    "text": "Past Work\n\nWork A: Summary of work.\nWork B: Summary of work."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Krishna, V., Author, B. (2024). “Title of the paper”. Journal Name. [DOI Link]\nKrishna, V., Author, C. (2023). “Title of the paper”. Journal Name. [DOI Link]"
+  },
+  {
+    "objectID": "publications.html#journal-papers",
+    "href": "publications.html#journal-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Krishna, V., Author, B. (2024). “Title of the paper”. Journal Name. [DOI Link]\nKrishna, V., Author, C. (2023). “Title of the paper”. Journal Name. [DOI Link]"
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nKrishna, V. (2024). “Conference Paper Title”. Conference Name."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Kudurupaka Vamshi Krishna",
     "section": "",
-    "text": "body { font-family: system-ui, -apple-system, BlinkMacSystemFont, “Segoe UI”, sans-serif; }\nmain.content { max-width: 900px; margin: 0 auto; }\nh1, h2, h3 { font-weight: 600; }\na { text-decoration: none; }\na:hover { text-decoration: underline; }"
+    "text": "A passionate road safety researcher specializing in human factors in road safety, and intelligent transportation systems. Experienced in translating research outputs into innovative safety solutions for diverse road users."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "",
+    "text": "A passionate road safety researcher specializing in human factors in road safety, and intelligent transportation systems. Experienced in translating research outputs into innovative safety solutions for diverse road users."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "Research Interests",
+    "text": "Research Interests\nHuman factors in road safety and decision-making, assistive technology, psycho-physiological behaviour, Intelligent Transportation Systems (ITS), Autonomous Vehicles (AV) mobility, e-HMI and IoT"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "News",
+    "text": "News\n\nMonth YYYY – Short highlight 1\n\nMonth YYYY – Short highlight 2"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nResearch\n\nPublications\n\nCV"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out to me for collaborations or inquiries.\n\nGet in Touch\n\nEmail: your.email@example.com\nLocation: City, Country\n\n\n\nOffice Address\nDepartment of X,\nUniversity/Company Name,\nAddress Line 1,\nCity, Zip Code."
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@institute.ac.in\nCurrent affiliation: Department, Institute, City, Country\nOptional: LinkedIn / Google Scholar / GitHub links.\n\nFeel free to reach out regarding research collaborations, reviewing, or student mentoring."
+  },
+  {
+    "objectID": "contact/index.html#contact",
+    "href": "contact/index.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@institute.ac.in\nCurrent affiliation: Department, Institute, City, Country\nOptional: LinkedIn / Google Scholar / GitHub links.\n\nFeel free to reach out regarding research collaborations, reviewing, or student mentoring."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view a brief overview below and download the full CV as PDF.\n\nCurrent Position: PhD Research Scholar, Transportation Engineering, [Institute name].\nEducation: PhD, M.Tech, B.Tech (with years and institutions).\nResearch Interests: short bullet list.\nKey Skills: software and programming skills.\n\nDownload full CV"
   },
   {
     "objectID": "publications/index.html",
@@ -40,62 +138,6 @@
     "title": "Publications",
     "section": "Under Review / In Preparation",
     "text": "Under Review / In Preparation\n\nTitle – brief description and status."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "You can view a brief overview below and download the full CV as PDF.\n\nCurrent Position: PhD Research Scholar, Transportation Engineering, [Institute name].\nEducation: PhD, M.Tech, B.Tech (with years and institutions).\nResearch Interests: short bullet list.\nKey Skills: software and programming skills.\n\nDownload full CV"
-  },
-  {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: your.email@institute.ac.in\nCurrent affiliation: Department, Institute, City, Country\nOptional: LinkedIn / Google Scholar / GitHub links.\n\nFeel free to reach out regarding research collaborations, reviewing, or student mentoring."
-  },
-  {
-    "objectID": "contact/index.html#contact",
-    "href": "contact/index.html#contact",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: your.email@institute.ac.in\nCurrent affiliation: Department, Institute, City, Country\nOptional: LinkedIn / Google Scholar / GitHub links.\n\nFeel free to reach out regarding research collaborations, reviewing, or student mentoring."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kudurupaka Vamshi Krishna",
-    "section": "",
-    "text": "Write 1–2 short paragraphs here summarizing who you are (current PhD topic, institute, and main research interests)."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Kudurupaka Vamshi Krishna",
-    "section": "",
-    "text": "Write 1–2 short paragraphs here summarizing who you are (current PhD topic, institute, and main research interests)."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Kudurupaka Vamshi Krishna",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nItem 1\n\nItem 2\n\nItem 3"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Kudurupaka Vamshi Krishna",
-    "section": "News",
-    "text": "News\n\nMonth YYYY – Short highlight 1\n\nMonth YYYY – Short highlight 2"
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Kudurupaka Vamshi Krishna",
-    "section": "Quick Links",
-    "text": "Quick Links\n\nResearch\n\nPublications\n\nCV"
   },
   {
     "objectID": "research/index.html",
